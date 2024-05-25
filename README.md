@@ -19,7 +19,7 @@ pymc3 3.11
 theano 1.0  
 arviz 0.12  
 seaborn 0.11  
-## Thanks
+## Reference
 https://github.com/Priesemann-Group/covid19_research  
 https://github.com/Priesemann-Group/covid_bayesian_mcmc  
 https://github.com/ada-k/ChangePointAnalysis_Covid19Interventions  
